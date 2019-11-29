@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Motorbike
+comment1.params=km\ passenger
+comment1.target=Motorbike(double,\ int)
+numComments=2

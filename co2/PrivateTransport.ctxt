@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PrivateTransport
+comment1.params=km\ type\ passenger\ CO2perKM
+comment1.target=PrivateTransport(double,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ calculateCO2inKG()
+numComments=3
